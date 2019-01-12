@@ -4,7 +4,7 @@
 		syntax on
 	endif
 
-	"colorscheme VisualStudioDark
+	colorscheme VisualStudioDark
 
 " maximum line of history 
 	set history=1000
